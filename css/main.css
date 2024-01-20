@@ -1,0 +1,14 @@
+@import url(/css/components-css/component1.css);
+@import url(/css/components-css/component2.css);
+
+.container{
+    border: solid 2px black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: black;
+}
+
